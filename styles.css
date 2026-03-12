@@ -1074,6 +1074,7 @@ section {
 
 /* DEMO REQUEST */
 .demo-section {
+  display: none; /* seção "Solicitar demonstração" oculta */
   background: var(--white);
   padding: 80px 5% 96px;
 }
